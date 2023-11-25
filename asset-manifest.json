@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-contest-2/static/css/main.1a1247c8.css",
+    "main.js": "/react-contest-2/static/js/main.c5d008b5.js",
+    "static/media/header1.png": "/react-contest-2/static/media/header1.7aaf5ac38e03f68a7130.png",
+    "index.html": "/react-contest-2/index.html",
+    "main.1a1247c8.css.map": "/react-contest-2/static/css/main.1a1247c8.css.map",
+    "main.c5d008b5.js.map": "/react-contest-2/static/js/main.c5d008b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1247c8.css",
+    "static/js/main.c5d008b5.js"
+  ]
+}
